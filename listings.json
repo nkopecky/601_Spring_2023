@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/NanciKopecky_challenge1.html",
+      "/posts/NanciKopecky_hw1.html"
+    ]
+  },
+  {
+    "listing": "/about.html",
+    "items": [
+      "/about/NanciKopeckyAboutMe.html",
+      "/about/about.html"
+    ]
+  }
+]
